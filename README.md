@@ -41,4 +41,4 @@ The game utilizes grid-based positioning for the snake and food elements, allowi
 
 Feel free to contribute to the project by submitting pull requests or reporting issues on GitHub. Enjoy playing!
 
-[https://elfarsif.github.io/snake-game](#) 
+[Live Demo](https://elfarsif.github.io/snake-game) 
